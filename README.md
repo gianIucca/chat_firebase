@@ -6,9 +6,9 @@ Para rodar esse projeto, é necessário colocar sua própria configuração do f
 
 To be able to run this project, you have to put your own firebase configuration on App.js(line 13)
 
-(https://github.com/gianIucca/chat_firebase/blob/main/images/firebase_chat_login.png)
+![alt text](https://github.com/gianIucca/chat_firebase/blob/main/images/firebase_chat_login.png)
 
-(https://github.com/gianIucca/chat_firebase/blob/main/images/firebase_chat.png)
+![alt text](https://github.com/gianIucca/chat_firebase/blob/main/images/firebase_chat.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
