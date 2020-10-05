@@ -6,7 +6,7 @@ Para rodar esse projeto, é necessário colocar sua própria configuração do f
 
 To be able to run this project, you have to put your own firebase configuration on App.js(line 13)
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/gianIucca/chat_firebase/blob/main/images/firebase_chat.png)
 
 ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
