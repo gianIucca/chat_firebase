@@ -1,3 +1,15 @@
+## Informações
+
+Para rodar esse projeto, é necessário colocar sua própria configuração do firebase no App.js(linha 13)
+
+## Information
+
+To be able to run this project, you have to put your own firebase configuration on App.js(line 13)
+
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
